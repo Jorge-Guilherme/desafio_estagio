@@ -1,0 +1,20 @@
+a) 1, 3, 5, 7, ___
+b) 2, 4, 8, 16, 32, 64, ____
+c) 0, 1, 4, 9, 16, 25, 36, ____
+d) 4, 16, 36, 64, ____
+e) 1, 1, 2, 3, 5, 8, ____
+f) 2, 10, 12, 16, 17, 18, 19, ____
+
+
+a) a sequência sempre aumenta de 2 em 2. Então o próximo número é 9
+
+b) a sequência sempre duplica o valor anterior. Então o próximo número é 128
+
+c) a sequência representa a posição ao quadrado. Então o próximo número é 49, pois 7x7 = 49
+
+d) essa sequência é o quadrado dos números pares. Então o próximo número é 100, pois 10x10 = 100
+
+e) a sequência de fibonacci, onde o próximo valor é a soma dos dois anteriores
+
+f) não consegui encontrar uma lógica para essa sequência, mas a mais próxima que achei foi de ser os números que possuem o dígito 1 ou 2, 
+entretanto, dessa forma, o número 11 também deveria fazer parte da sequência. Então presumo que, o próximo valor é 20
